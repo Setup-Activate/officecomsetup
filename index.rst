@@ -1,6 +1,6 @@
 
 **************************
-Read the Docs Microsoft365 Setup
+Read the Docs office.com/Setup
 **************************
 
 
